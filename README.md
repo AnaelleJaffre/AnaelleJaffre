@@ -9,4 +9,4 @@ Few months ago I made a blog for my best friend :) you can find it [here](https:
 
 And I tried to add my stats like my friends but this operation shamefully failed, as you can admirabely observe it right there :
 
-[![AnaelleJaffre's WakaTime stats](https://img.shields.io/wakatime/weekly/AnaelleJaffre?style=flat-square)](https://wakatime.com/@AnaelleJaffre)
+[![My WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnaelleJaffre)](https://github.com/anuraghazra/github-readme-stats)
