@@ -1,7 +1,7 @@
-EH SALUT YOU're ✨ _special_ ✨.
+✨ _;-;_ ✨.
 -
 
-I like to code. Mostly in CSS with keyframes. Because I'm an artist 😱.
+I like to code. Mostly in CSS with keyframes.
 
 I also code in C#, and make 3D, cause these times I'm pretty interested in creating games on Unity in C# 👾.
 
