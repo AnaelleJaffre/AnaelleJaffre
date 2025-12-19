@@ -10,4 +10,4 @@ I'm an artist so I created a small portfolio : ✨[tadaaa](https://anaellejaffre
 Also, I made a blog for my best friend :) you can find it [here](https://alexianarbonne.github.io/blog-de-traduction/ "The blog of Alexia").
 
 
-[![AnaelleJaffre's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@AnaelleJaffre)](https://github.com/anuraghazra/github-readme-stats)
+[comment]: <> ([![AnaelleJaffre's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@AnaelleJaffre)](https://github.com/anuraghazra/github-readme-stats))
